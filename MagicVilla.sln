@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagicVilla_VillaAPI", "MagicVilla_VillaAPI\MagicVilla_VillaAPI.csproj", "{AAD245FD-5FF8-4E40-83CD-2279D61E0065}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicVilla_Data", "MagicVilla_Models\MagicVilla_Data.csproj", "{01BA87FB-D466-497B-9CBB-A719FDF80FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicVilla_Repository", "MagicVilla_Repository\MagicVilla_Repository.csproj", "{C25BE15A-9B1D-4541-A8DD-B5AA2B80DB29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicVilla_Service", "MagicVilla_Service\MagicVilla_Service.csproj", "{2BBD4CAE-C550-4288-992C-613B032EFA00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicVilla_Core", "MagicVilla_Core\MagicVilla_Core.csproj", "{1D68B11F-98E7-4319-8767-8F646FA343F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAD245FD-5FF8-4E40-83CD-2279D61E0065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD245FD-5FF8-4E40-83CD-2279D61E0065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD245FD-5FF8-4E40-83CD-2279D61E0065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD245FD-5FF8-4E40-83CD-2279D61E0065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01BA87FB-D466-497B-9CBB-A719FDF80FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01BA87FB-D466-497B-9CBB-A719FDF80FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01BA87FB-D466-497B-9CBB-A719FDF80FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01BA87FB-D466-497B-9CBB-A719FDF80FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C25BE15A-9B1D-4541-A8DD-B5AA2B80DB29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25BE15A-9B1D-4541-A8DD-B5AA2B80DB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25BE15A-9B1D-4541-A8DD-B5AA2B80DB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25BE15A-9B1D-4541-A8DD-B5AA2B80DB29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BBD4CAE-C550-4288-992C-613B032EFA00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BBD4CAE-C550-4288-992C-613B032EFA00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BBD4CAE-C550-4288-992C-613B032EFA00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BBD4CAE-C550-4288-992C-613B032EFA00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D68B11F-98E7-4319-8767-8F646FA343F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D68B11F-98E7-4319-8767-8F646FA343F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D68B11F-98E7-4319-8767-8F646FA343F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D68B11F-98E7-4319-8767-8F646FA343F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {328E57D8-EFFB-463A-BADE-621BC37C022C}
+	EndGlobalSection
+EndGlobal
